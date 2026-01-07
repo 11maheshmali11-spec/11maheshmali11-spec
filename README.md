@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **Pursuing BCA (Bachelor of Computer Applications).**
 
-- 🌱 I’m currently learning **Data Science, Machine Learning, and Data Visualization**
+- 🌱 I’m currently learning **Data Science, Machine Learning, and Data Analytics**
 
 - 📫 How to reach me **11maheshmali11@gmail.com**
 
